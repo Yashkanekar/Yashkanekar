@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Kanekar</h1>
+<h3 align="center">A passionate Frontend developer & Javascript developer</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashkanekar&show_icons=true&locale=en&theme=dark&layout=compact" alt="Yashkanekar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkanekar&theme=dark" alt="Yashkanekar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashkanekar&show_icons=true&layout=compact&locale=en&theme=dark" alt="Yashkanekar" /></p>
+
+
 
 <!--
 **Yashkanekar/Yashkanekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
