@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Kanekar</h1>
 <h3 align="center">A passionate Frontend developer & Javascript developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashkanekar&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-kanekar" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashkanekar&show_icons=true&locale=en&theme=dark&layout=compact" alt="Yashkanekar" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkanekar&theme=dark" alt="Yashkanekar" /></p>
